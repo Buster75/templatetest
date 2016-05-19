@@ -4,7 +4,7 @@ import re, sys, os
 '''
 Created on 25 apr 2016
 
-@author: 66109031
+@author: Thomas Bergqvist
 ''' 
 maxlenght = 0
 class Check_tmpl_and_prop(): 
