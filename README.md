@@ -1,2 +1,2 @@
 # templatetest
-check properties againt template
+check properties against template
