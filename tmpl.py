@@ -3,7 +3,7 @@
 import re, sys, os
 '''
 Created on 25 apr 2016
-hej
+hej från github
 @author: Thomas Bergqvist
 '''
 os.popen("java -jar /nfshome/66109031/public/skriptstatistik.jar tmpltest")
